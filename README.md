@@ -37,6 +37,9 @@ frontend-store/
 │── assets/
 │   └── imágenes del proyecto
 └── README.md
+```
+
+---
 
 ## 📫 Contactemos
 
