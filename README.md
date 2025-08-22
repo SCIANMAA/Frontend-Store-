@@ -1,4 +1,4 @@
-# 🛍️ Frontend Store
+# 🛍️ Frontend Store (https://frontendstore-agustinsciammarella.netlify.app/)
 
 Un proyecto de tienda online desarrollado como práctica de **Frontend Development**, aplicando HTML, CSS y JavaScript para construir una experiencia de usuario moderna y responsive.
 
@@ -21,9 +21,7 @@ Un proyecto de tienda online desarrollado como práctica de **Frontend Developme
 ---
 
 ## 📸 Capturas de pantalla
-*(Aquí podés agregar imágenes de tu proyecto. Ejemplo:)*
-
-![Captura de la tienda](./assets/screenshot.png)
+![Captura de la tienda](.img/IMG/logo.png)
 
 ---
 
