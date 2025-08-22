@@ -21,7 +21,8 @@ Un proyecto de tienda online desarrollado como práctica de **Frontend Developme
 ---
 
 ## 📸 Capturas de pantalla
-![Captura de la tienda](img/IMG/grafico1.jpg)
+![Captura de la tienda]()
+
 
 ---
 
