@@ -37,3 +37,8 @@ frontend-store/
 │── assets/
 │   └── imágenes del proyecto
 └── README.md
+
+## 📫 Contactemos
+
+- Email: Sciammarellaagus9@gmail.com
+- LinkedIn: [linkedin.com/in/AgustínSciammarella](https://www.linkedin.com/in/agust%C3%ADn-sciammarella-385149298/)
