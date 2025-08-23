@@ -20,11 +20,6 @@ Un proyecto de tienda online desarrollado como práctica de **Frontend Developme
 
 ---
 
-## 📸 Capturas de pantalla
-![Captura de la tienda]()
-
-
----
 
 ## 📂 Estructura del proyecto
 ```bash
