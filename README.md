@@ -25,11 +25,13 @@ Un proyecto de tienda online desarrollado como práctica de **Frontend Developme
 ```bash
 frontend-store/
 │── index.html
+│   └── nosotros.html
+│   └── producto.html
 │── css/
 │   └── styles.css
 │   └── normalize.css
 │── js/
-│   └── app.js
+│   └── producto.js
 │── assets/
 │   └── imágenes del proyecto
 └── README.md
