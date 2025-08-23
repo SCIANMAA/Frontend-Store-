@@ -27,6 +27,7 @@ frontend-store/
 │── index.html
 │── css/
 │   └── styles.css
+│   └── normalize.css
 │── js/
 │   └── app.js
 │── assets/
